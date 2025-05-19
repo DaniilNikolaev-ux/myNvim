@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://neovim.io/images/logo@2x.png" alt="Neovim Logo" width="200"/>
   <br>
-  <strong>Современная конфигурация Neovim на Lua | Modern Neovim Configuration in Lua</strong>
+  <strong>Моя конфигурация Neovim на Lua | My Neovim Configuration in Lua</strong>
 </div>
 
 ---
