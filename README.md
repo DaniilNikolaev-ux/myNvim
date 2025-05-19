@@ -15,6 +15,7 @@
 
 Это моя личная конфигурация Neovim, основанная на менеджере плагинов lazy.nvim и написанная на Lua. Конфигурация включает в себя поддержку LSP, автодополнение, продвинутую подсветку синтаксиса и множество других возможностей.
 
+![nvim img](https://disk.yandex.ru/i/cC4m31AUGihZHQ)
 ## Установка
 
 ### Предварительные требования
@@ -173,6 +174,7 @@
 
 This is my personal Neovim configuration, based on the lazy.nvim plugin manager and written in Lua. The configuration includes LSP support, auto-completion, advanced syntax highlighting, and many other features.
 
+![nvim img](https://disk.yandex.ru/i/cC4m31AUGihZHQ)
 ## Installation
 
 ### Prerequisites
