@@ -14,6 +14,8 @@ vim.opt.rtp:prepend(lazypath)
 require("config")
 require("lazy").setup("plugins")
 
+-- Установка темы (можно выбрать одну из: tokyonight, aura-dark или miasma)
+
 
 
 
