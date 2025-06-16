@@ -15,7 +15,6 @@
 
 Это моя личная конфигурация Neovim, основанная на менеджере плагинов lazy.nvim и написанная на Lua. Конфигурация включает в себя поддержку LSP, автодополнение, продвинутую подсветку синтаксиса и множество других возможностей.
 
-![nvim img](https://downloader.disk.yandex.ru/preview/fc5620ab9195167f67f50522c2affd48c9c281adff58bdce394cdb312d7d0d56/682b95f5/rcOr6uLcay6BdOWz7hX-XbFtOA3Do-mJg65GYwMO4m5D2xZlqUeRtUMgo0Ufzc8ddoVHA_iOEa9RNy1rgd80qQ%3D%3D?uid=0&filename=image.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v3&size=2048x2048)
 ## Установка
 
 ### Предварительные требования
@@ -37,7 +36,7 @@
 
 3. Клонируйте репозиторий в директорию конфигурации Neovim:
    ```bash
-   git clone https://github.com/DaniilNikolaev-ux/neovim-config.git ~/.config/nvim
+   git clone https://github.com/DaniilNikolaev-ux/mynvim.git ~/.config/nvim
    ```
 
 4. Запустите Neovim:
